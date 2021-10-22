@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alex
+- 👀 I’m interested in Software development!
+- 🌱 I’m currently learning Python, SQL and R.
+- 💞️ I’m looking to collaborate on projects that will help me o improve my skills.
